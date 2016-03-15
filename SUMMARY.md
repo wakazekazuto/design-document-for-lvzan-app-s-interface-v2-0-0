@@ -28,7 +28,7 @@
            * [订单列表](ding_dan_lie_biao.md)
            * [订单详情](ding_dan_xiang_qing.md)
        * [读取所有供应商](du_qu_suo_you_gong_ying_shang.md)
-       * 财务管理
+       * [财务管理](cai_wu_guan_li.md)
            * [公司信息](gong_si_xin_xi.md)
            * 修改
    * 组团社
