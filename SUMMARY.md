@@ -33,7 +33,7 @@
            * [修改公司信息](xiu_gai_gong_si_xin_xi.md)
    * 组团社
        * 订单管理
-           * 转态列表-更多状态列表
+           * [转态列表-更多状态列表](zhuan_tai_lie_8868-_geng_duo_zhuang_tai_lie_biao.md)
            * 订单列表
        * 财务管理
        * 个人信息
