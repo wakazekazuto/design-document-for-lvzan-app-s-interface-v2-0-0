@@ -14,4 +14,5 @@
        * [首页](shou_ye.md)
        * [版本更新](ban_ben_geng_xin.md)
        * [反馈](fan_kui.md)
+       * 个人信息
 
