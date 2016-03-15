@@ -4,7 +4,7 @@
 * [请求地址](chapter1.md)
 * [接口数据格式定义](chapter2.md)
 * 接口返回码自定义
-   * [返回码概要定义](fan-hui-ma-gai-yaomd.md/fan-hui-ma-gai-yaomd.md)
+   * [返回码概要定义](fan-hui-ma-gai-yaomd.md/fan-hui-ma-gai-yaomd)
    * [返回码详细定义](chapter3/section2.md)
 * 接口列表
    * 公用接口
