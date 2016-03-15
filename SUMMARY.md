@@ -29,7 +29,7 @@
            * [订单详情](ding_dan_xiang_qing.md)
        * [读取所有供应商](du_qu_suo_you_gong_ying_shang.md)
        * 财务管理
-           * 公司信息
+           * [公司信息](gong_si_xin_xi.md)
            * 修改
    * 组团社
        * 订单管理
