@@ -1,2 +1,147 @@
 # 转态列表-更多状态列表
+http://api.ilvzan.com/v2/group/indent/more
+请求：
+``` js
+{
+	token:"U2FsdGVkX1WH21HHIMymBj5yUg1FueYYUbFHTeojM"
+}
+```
 
+返回：
+``` json
+ [
+	 {"code":"20000",
+	 "message":"all right",
+	 "reuslt":{
+		 "data":[
+				 {"count":6,
+			      "newstatusCode":"DisagreeModifyPay",
+			      "newstatusName":"拒绝修改退款"
+			      },
+			      {"count":1,
+				   "newstatusCode":"Refundleague",
+				   "newstatusName":"退团退款"
+				   },
+				   {"count":7,
+				    "newstatusCode":"ModifyRefuse",
+				    "newstatusName":"修改拒绝"
+				    },
+				    {"count":35,"newstatusCode":"Leaguecomplete","newstatusName":"退团完成"},             {"count":4,"newstatusCode":"LeaveRefuse","newstatusName":"退团拒绝"},{"count":5,"newstatusCode":"Waitconfirm","newstatusName":"等待确认"},{"count":1,"newstatusCode":"PayedPart","newstatusName":"已付部分"},{"count":1,"newstatusCode":"Waitpayment","newstatusName":"等待付款"},{"count":63,"newstatusCode":"Ordercancel","newstatusName":"订单取消"},{"count":2,"newstatusCode":"PaidFullLeaveWaitConfirm","newstatusName":"已付全款退团待确认"},{"count":1,"newstatusCode":"PaidFullModifyWaitConfirm","newstatusName":"已付全款修改待确认"},{"count":39,"newstatusCode":"Fullamount","newstatusName":"已付全款"}]}}] 
+```
+`备注`：data中的数字是如下的状态对应：
+``` js
+[{  "value":"all",
+	"text":"全部状态"},
+{
+	"value":"Fullamount",
+	"text":"已付全款",
+	"group":"完成状态"
+},{
+	"value":"Leaguecomplete",
+	"text":"退团完成",
+	"group":"完成状态"
+},{
+	"value":"Ordercancel",
+	"text":"订单取消",
+	"group":"完成状态"
+},{
+	"value":"ModifyRefuse",
+	"text":"修改拒绝",
+	"group":"完成状态"
+},{
+	"value":"LeaveRefuse",
+	"text":"退团拒绝",
+	"group":"完成状态"
+},{
+	"value":"DisagreeModifyPay",
+	"text":"拒绝修改付款",
+	"group":"完成状态"
+},{
+	"value":"DisagreeModifyRefund",
+	"text":"拒绝修改退款",
+	"group":"完成状态"
+},{
+	"value":"DisagreeLeavePay",
+	"text":"拒绝退团付款",
+	"group":"完成状态"
+},{
+	"value":"DisagreeLeaveRefund",
+	"text":"拒绝退团退款",
+	"group":"完成状态"
+},{
+	"value":"Waitpayment",
+	"text":"等待付款",
+	"group":"等待付款"
+},
+
+{
+	"value":"ModifyPay",
+	"text":"修改付款",
+	"group":"等待付款"
+},{
+	"value":"Paymentleague",
+	"text":"退团付款",
+	"group":"等待付款"
+},{
+	"value":"Refundleague",
+	"text":"退团退款",
+	"group":"等待付款"
+},{
+	"value":"ModifyRefun",
+	"text":"修改退款",
+	"group":"等待付款"
+}
+,
+{
+	"value":"Waitconfirm",
+	"text":"等待确认",
+	"group":"等待处理"
+},{
+	"value":"Waitconsent",
+	"text":"等待同意",
+	"group":"等待处理"
+},{
+	"value":"Waitleague",
+	"text":"等待退团",
+	"group":"等待处理"
+}
+,{
+	"value":"PaidFullModifyWaitConfirm",
+	"text":"已付全款修改待确认",
+	"group":"等待处理"
+},{
+	"value":"PaidFullLeaveWaitConfirm",
+	"text":"已付全款退团待确认",
+	"group":"等待处理"
+},
+{
+	"value":"PayedPart",
+	"text":"已付部分",
+	"group":"部分状态"
+}
+,{
+	"value":"PayPartModForConfirm",
+	"text":"已付部分修改待确认",
+	"group":"部分状态"
+},{
+	"value":"PayPartLeavForConfirm",
+	"text":"已付部分退团待确认",
+	"group":"部分状态"
+},{
+	"value":"PayPartModPay",
+	"text":"已付部分修改付款",
+	"group":"部分状态"
+},{
+	"value":"PayPartModRefund",
+	"text":"已付部分修改退款",
+	"group":"部分状态"
+},{
+	"value":"PayPartLeavPay",
+	"text":"已付部分退团付款",
+	"group":"部分状态"
+},{
+	"value":"PayPartLeavRefund",
+	"text":"已付部分退团退款",
+	"group":"部分状态"
+} ]
+```
