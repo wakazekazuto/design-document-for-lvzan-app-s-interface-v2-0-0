@@ -37,6 +37,6 @@
            * [订单列表](ding_dan_lie_biao2.md)
        * [财务管理](cai_wu_guan_li2.md)
        * 个人信息
-           * 公司信息
+           * [公司信息](gong_si_xin_xi2.md)
            * 修改公司信息
 
