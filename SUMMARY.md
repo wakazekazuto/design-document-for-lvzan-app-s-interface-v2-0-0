@@ -12,5 +12,5 @@
        * [用户名判断](yong_hu_ming_pan_duan.md)
        * [重置用户密码](zhong_zhi_yong_hu_mi_ma.md)
        * [首页](shou_ye.md)
-       * 版本更新
+       * [版本更新](ban_ben_geng_xin.md)
 
