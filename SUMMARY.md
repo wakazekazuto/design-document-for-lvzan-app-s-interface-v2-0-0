@@ -16,5 +16,5 @@
        * [反馈](fan_kui.md)
        * [个人信息](ge_ren_xin_xi.md)
        * [我的信息](wo_de_xin_xi.md)
-       * 我的信息修改
+       * [我的信息修改](wo_de_xin_xi_xiu_gai.md)
 
