@@ -15,8 +15,8 @@
        * [版本更新](ban_ben_geng_xin.md)
        * [反馈](fan_kui.md)
        * [个人信息](ge_ren_xin_xi.md)
-       * [我的信息修改](wo_de_xin_xi_xiu_gai.md)
        * [我的信息](wo_de_xin_xi.md)
+       * [我的信息修改](wo_de_xin_xi_xiu_gai.md)
        * [获取验证码](huo_qu_yan_zheng_ma.md)
        * [修改绑定手机](xiu_gai_bang_ding_shou_ji.md)
 
