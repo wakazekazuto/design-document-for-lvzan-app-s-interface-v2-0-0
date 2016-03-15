@@ -62,7 +62,7 @@ http://api.ilvzan.com/v2/provider/product/index
 |1|地接|
 |2|定制|
 
-3. status 状态
+3.status 状态
 
 | 标识|简介|
 | :-------- | --------:| 
