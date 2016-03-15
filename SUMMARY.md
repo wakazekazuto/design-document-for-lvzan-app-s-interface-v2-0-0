@@ -30,7 +30,7 @@
        * [读取所有供应商](du_qu_suo_you_gong_ying_shang.md)
        * [财务管理](cai_wu_guan_li.md)
            * [公司信息](gong_si_xin_xi.md)
-           * 修改
+           * 修改公司信息
    * 组团社
        * 订单管理
            * 转态列表-更多状态列表
