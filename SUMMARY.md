@@ -35,7 +35,7 @@
        * 订单管理
            * [转态列表-更多状态列表](zhuan_tai_lie_8868-_geng_duo_zhuang_tai_lie_biao.md)
            * [订单列表](ding_dan_lie_biao2.md)
-       * 财务管理
+       * [财务管理](cai_wu_guan_li2.md)
        * 个人信息
            * 公司信息
            * 修改公司信息
